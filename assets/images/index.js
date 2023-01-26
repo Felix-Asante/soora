@@ -1,0 +1,12 @@
+export { default as AppleStoreImage } from "./apple-store.png";
+export { default as ContactIcon } from "./contact-icon.png";
+export { default as CopyIcon } from "./copy.png";
+export { default as FacebookImage } from "./facebook.png";
+export { default as GooglePlayImage } from "./google-play.png";
+export { default as Instagram } from "./instagram.png";
+export { default as LandingImage1 } from "./landing-image-1.png";
+export { default as LandingImage2 } from "./landing-image-2.png";
+export { default as Logo } from "./logo.png";
+export { default as Tiktok } from "./tiktok.png";
+export { default as Twitter } from "./twitter.png";
+export { default as Youtube } from "./youtube.png";
